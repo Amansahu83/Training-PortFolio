@@ -1,0 +1,60 @@
+
+.aman0{
+    display: block;
+    width: 99vw;
+    height: 40vh;
+    border-radius: 5px;
+}
+.aman1{
+    background-color: pink;
+    float: right;
+    justify-content:center;
+    margin-top: 20px;
+    margin-right:10px ;
+    margin-left: 20px;
+    width: 47vw;
+    height: 650px;
+    padding: 90px;
+    border-radius: 15px;
+}
+.aman2{
+    float:inline-end;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 50vw;
+    height: 216px;
+    padding: 30px;
+    border-radius: 15px;
+
+}
+.aman3{
+    background-color:blue;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 50vw;
+    height: 216px;
+    padding: 30px;
+    border-radius: 15px;
+
+}
+.aman4{
+    background-color:yellow;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 50vw;
+    height: 200px;
+    padding: 30px;
+    border-radius: 15px;
+}
+.aman5{
+    margin-top: 10px;
+    background-color: rgb(242, 235, 235);
+    border-radius: 15px;
+    width: 98vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 30px;
+    border-radius: 15px;
+
+}
